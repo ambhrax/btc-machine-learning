@@ -2,7 +2,7 @@
 PDF Report Generator for ML Lab Project
 Compiles an Executive Project Report (Abstract, Architecture, 22 Features, Benchmarks, Backtests, Discussion, Conclusion)
 followed by all 6 executed Jupyter Notebooks with full code, outputs, markdown, tables, and Matplotlib charts.
-Official Cover Page: Manipal University Jaipur Logo, Neeraj (2427010033), Adhya Jain (2427010014) & Tanish Jain (2427010215), B.Tech CSE (AI & ML).
+Official Cover Page: Manipal University Jaipur Logo, Ambuj Mishra (2428010013), B.Tech CCE.
 """
 
 import os
@@ -978,7 +978,7 @@ def main():
         <img src="{muj_logo_b64}" alt="Manipal University Jaipur Logo" class="univ-logo-img" />
       </div>
       <h1 class="univ-title">MANIPAL UNIVERSITY JAIPUR</h1>
-      <h2 class="univ-subtitle">Department of Computer Science &amp; Engineering (AI &amp; ML)</h2>
+      <h2 class="univ-subtitle">Department of Computer Science &amp; Engineering (CCE)</h2>
       <p class="univ-dept">School of Computing and Information Technology • Academic Session 2025–2026</p>
     </div>
 
@@ -1014,21 +1014,9 @@ def main():
         <div class="authors-label">Project Investigators &amp; Authors</div>
         <div class="authors-grid">
           <div class="author-card">
-            <div class="author-name">Neeraj</div>
-            <div class="author-reg">Reg: 2427010033</div>
-            <div class="author-role">B.Tech CSE (AI &amp; ML)</div>
-            <div class="author-branch">Manipal University Jaipur</div>
-          </div>
-          <div class="author-card">
-            <div class="author-name">Adhya Jain</div>
-            <div class="author-reg">Reg: 2427010014</div>
-            <div class="author-role">B.Tech CSE (AI &amp; ML)</div>
-            <div class="author-branch">Manipal University Jaipur</div>
-          </div>
-          <div class="author-card">
-            <div class="author-name">Tanish Jain</div>
-            <div class="author-reg">Reg: 2427010215</div>
-            <div class="author-role">B.Tech CSE (AI &amp; ML)</div>
+            <div class="author-name">Ambuj Mishra</div>
+            <div class="author-reg">Reg: 2428010013</div>
+            <div class="author-role">B.Tech CCE</div>
             <div class="author-branch">Manipal University Jaipur</div>
           </div>
         </div>
@@ -1037,11 +1025,11 @@ def main():
 
     <div class="cover-footer">
       <div class="cover-footer-left">
-        <strong>Course:</strong> Machine Learning Laboratory (CS3150 / AIML)<br>
+        <strong>Course:</strong> Machine Learning Laboratory (CS3150 / CCE)<br>
         <strong>Affiliation:</strong> Manipal University Jaipur, Dehmi Kalan, Jaipur, Rajasthan 303007
       </div>
       <div class="cover-footer-right">
-        <strong>Program:</strong> B.Tech CSE (AI &amp; ML)<br>
+        <strong>Program:</strong> B.Tech CCE<br>
         <strong>Date:</strong> October 2026
       </div>
     </div>
@@ -1175,7 +1163,7 @@ def main():
     <div style="margin-top: 18px; padding: 12px 14px; background: #f8fafc; border: 1px solid #cbd5e1; border-radius: 8px;">
       <h3 style="font-size: 9pt; font-weight: 800; color: #0f172a; margin-bottom: 2px;">Academic Verification &amp; Reproducibility</h3>
       <p style="font-size: 7.8pt; color: #475569; line-height: 1.4;">
-        Submitted in partial fulfillment of the Machine Learning Laboratory requirement for <strong>B.Tech Computer Science &amp; Engineering (AI &amp; ML)</strong> at <strong>Manipal University Jaipur</strong>. All random states (<code>random_state=42</code>) were strictly pinned to ensure deterministic laboratory replication.
+        Submitted in partial fulfillment of the Machine Learning Laboratory requirement for <strong>B.Tech CCE</strong> at <strong>Manipal University Jaipur</strong>. All random states (<code>random_state=42</code>) were strictly pinned to ensure deterministic laboratory replication.
       </p>
     </div>
   </div>
@@ -1188,7 +1176,7 @@ def main():
       <span class="dossier-tag">Part I • Scientific Research Dossier</span>
       <h2 class="dossier-title">Comprehensive Project Report, Benchmark Results &amp; Conclusions</h2>
       <p class="dossier-sub">
-        Authors: Neeraj (2427010033), Adhya Jain (2427010014) &amp; Tanish Jain (2427010215) • Department of CSE (AI &amp; ML), Manipal University Jaipur
+        Author: Ambuj Mishra (2428010013) • Department of CSE (CCE), Manipal University Jaipur
       </p>
     </div>
 
@@ -1583,9 +1571,9 @@ def main():
       </ul>
 
       <div style="padding: 10px 14px; background: #f8fafc; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 8pt; color: #475569;">
-        <strong>Academic Declaration:</strong> We hereby declare that this project report titled <em>"Multi-Timeframe Cryptocurrency Price Forecasting &amp; Quantitative Algorithmic Backtesting System"</em> is an authentic record of our own coursework carried out under the Department of Computer Science &amp; Engineering (AI &amp; ML), Manipal University Jaipur.<br>
+        <strong>Academic Declaration:</strong> I hereby declare that this project report titled <em>"Multi-Timeframe Cryptocurrency Price Forecasting &amp; Quantitative Algorithmic Backtesting System"</em> is an authentic record of my own coursework carried out under the Department of Computer Science &amp; Engineering (CCE), Manipal University Jaipur.<br>
         <div style="margin-top: 6px; font-weight: 700; color: #0f172a;">
-          Investigators: Neeraj (2427010033), Adhya Jain (2427010014) &amp; Tanish Jain (2427010215) • B.Tech CSE (AI &amp; ML)
+          Author: Ambuj Mishra (2428010013) • B.Tech CCE
         </div>
       </div>
     </div>
